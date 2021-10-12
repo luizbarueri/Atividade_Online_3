@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+}
+body {
+    background-color: chocolate;
+
+}
+#principal {
+    width: 96%;
+    margin-top: 0.5%;
+    margin-left: 0.5%;
+    background-color: chocolate;
+    
+}
+.bt-menu {
+    width: 100px;
+    background-color: coral;
+    text-align: center;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
